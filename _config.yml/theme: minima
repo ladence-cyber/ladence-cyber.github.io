@@ -1,1 +1,4 @@
-Create _config.yml with minima theme
+title: "My Cybersecurity Journey"
+description: "Documenting my learning and projects in cybersecurity."
+theme: minima
+
