@@ -1,3 +1,10 @@
 title: "My Cybersecurity Journey"
 description: "Documenting my learning and projects in cybersecurity."
 theme: minima
+sass:
+  style: compressed
+include:
+  - assets/css
+markdown: kramdown
+kramdown:
+  input: GFM
