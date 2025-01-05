@@ -1,0 +1,10 @@
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
