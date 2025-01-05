@@ -1,10 +1,29 @@
-sass:
-  style: compressed
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
 
-include:
-  - assets/css
+h1, h2, h3 {
+  color: #333;
+}
 
-markdown: kramdown
+ul {
+  list-style-type: none;
+  padding: 0;
+}
 
-kramdown:
-  input: GFM
+li {
+  margin: 10px 0;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
