@@ -1,6 +1,8 @@
 title: "My Cybersecurity Journey"
 description: "Documenting my learning and projects in cybersecurity."
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 sass:
   style: compressed
 include:
